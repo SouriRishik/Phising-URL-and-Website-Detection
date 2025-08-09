@@ -6,14 +6,14 @@ A machine learning-based web application to detect phishing websites using featu
 
 ## 📌 Table of Contents
 
-- [Features](#features)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Model](#model)
-- [Demo](#demo)
-- [License](#license)
+- [Features](#-features)
+- [Dataset](#-dataset)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Project Structure](#-project-structure)
+- [Model](#-model)
+- [Demo](#-demo)
+- [License](#-license)
 
 ---
 
